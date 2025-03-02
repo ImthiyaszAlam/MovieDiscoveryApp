@@ -134,7 +134,7 @@ implementation "com.squareup.retrofit2:adapter-rxjava3:2.9.0"
 
 ### ✅ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/MovieApp.git
+git clone https://github.com/ImthiyaszAlam/MovieDiscoveryApp
 ```
 
 ### ✅ Open the Project in Android Studio  
@@ -165,7 +165,7 @@ const val API_KEY = "your_api_key_here"
 
 
 ### ✅ **Code Walkthrough Video (Minimum 4 Inputs)**  
-🎥 [Watch Video](https://drive.google.com/your-video-link)  
+(to be updated)
 
 ---
 

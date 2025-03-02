@@ -155,7 +155,7 @@ const val API_KEY = "your_api_key_here"
 ## 📦 **Submission Details**  
 
 ### ✅ **GitHub Repository**  
-🔗 [GitHub Repo](https://github.com/yourusername/MovieApp)  
+🔗 [GitHub Repo](https://github.com/ImthiyaszAlam/MovieDiscoveryApp)  
 
 ### ✅ **APK for Testing**  
 📥 [Download APK](https://drive.google.com/file/d/13TpO1zxpnHKRnKCoOynCYsOy9DO15eYn/view?usp=sharing)  

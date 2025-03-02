@@ -103,13 +103,17 @@ implementation "com.squareup.retrofit2:adapter-rxjava3:2.9.0"
 
 ```
 📂 MovieApp
-│── 📂 data               # Data layer (API, models, repository)
+│── 📂 network            # API Calls (Retrofit, RxKotlin)
+│── 📂 repository         # Data Handling & Business Logic
+│── 📂 data               # Data Models, Request & Response
+│   │── 📂 request        # API Request Models
+│   │── 📂 response       # API Response Models
 │── 📂 di                 # Dependency Injection (Koin)
 │── 📂 ui                 # UI Components (Jetpack Compose)
 │── 📂 viewmodel          # ViewModels for MVVM pattern
-│── 📂 utils              # Utility classes (error handling, extensions)
 │── 📝 README.md          # Project documentation
 │── 🏗️ build.gradle       # Project dependencies
+
 ```
 
 ---

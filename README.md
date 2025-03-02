@@ -142,7 +142,7 @@ git clone https://github.com/ImthiyaszAlam/MovieDiscoveryApp
 - Sync **Gradle dependencies**.  
 
 ### ✅ Add Your Watchmode API Key  
-Replace `"your_api_key_here"` in `Constants.kt`:  
+Replace `"your_api_key_here"` in `MovieRepository.kt`:  
 ```kotlin
 const val API_KEY = "your_api_key_here"
 ```
